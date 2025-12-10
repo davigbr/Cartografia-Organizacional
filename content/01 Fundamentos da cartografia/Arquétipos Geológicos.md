@@ -6,7 +6,7 @@ Ao cruzarmos os eixos de estabilidade (Territorialização e Codificação), ide
 
 Ambiente de máxima estabilidade. Identidade aguçada e comportamento prescrito. Fronteiras rígidas (silos, departamentos estanques) e regras imutáveis (dogma, leis pétreas). Os membros policiam uns aos outros para garantir a pureza do código.
 
-**Potências**: Segurança, robustez, preservação e replicabilidade. É a formação necessária para sustentar projetor e evitar erros.
+**Potências**: Segurança, robustez, preservação e replicabilidade. É a formação necessária para sustentar projetos e evitar erros.
 
 **Riscos**: Estagnação, cegueira sistêmica e burocracia reativa. Quando a robustez vira rigidez paralisante, a organização se torna incapaz de se adaptar.
 
@@ -54,7 +54,7 @@ Ambiente de máxima extensão. Fronteiras vagas (dispersão geográfica ou remot
 
 **(Baixa Territorialização + Baixa Codificação)**
 
-Ambiente de máxima permeabilidade. Fronteiras indefinidas e código ausente. Mistura total. Liberdade máxima, mas incapacidade de reter forma ou acumular valor..
+ Ambiente de máxima permeabilidade. Fronteiras indefinidas e código ausente. Mistura total. Liberdade máxima, mas incapacidade de reter forma ou acumular valor.
 
 **Potências**: Adaptação, criatividade pura e exploração de novos territórios. É a formação ideal para o estágio embrionário de ideias, onde qualquer estrutura prematura mataria a inovação.
 

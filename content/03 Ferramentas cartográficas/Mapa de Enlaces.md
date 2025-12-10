@@ -6,7 +6,7 @@ A notação do mapa de encontros envolve os seguintes elementos visuais:
 - O [[Agenciamento]] sendo mapeado pode estar no centro do grafo como um grande ponto/círculo. Sugere-se a conexão desse ponto com todos os [[Atuantes]];
 - Cada ponto no grafo é um Atuante, podendo-se empregar um código de cores para diferenciar o seu tipo;
 - As conexões no grafo são os [[Enlaces]], podendo-se empregar um código de cores para diferenciar os diferentes tipos de conexões. 
-- Um mesmo mapa pode conter mais de um[[Agenciamento].
+- Um mesmo mapa pode conter mais de um [[Agenciamento]].
 
 ## Exemplo de planilha para Kumu.io
 ### Aba "elements"
@@ -35,6 +35,7 @@ A notação do mapa de encontros envolve os seguintes elementos visuais:
 | Galadriel      | Linte (ferramenta) | Composição    | undirected    | Galadriel quer usar a ferramenta, pois ela a protege (Script: "organização"), mas é impedida pela urgência externa.                    |
 | Sauron (Sócio) | Carteirada         | Composição    | undirected    | Ele se apoia na hierarquia para legitimar sua conduta.                                                                                 |
 <iframe src="https://embed.kumu.io/68da019961f09fc4a785df778812a6cb" width="940" height="600" frameborder="0"></iframe>
+
 ## Layout para Kumu
 
 ```@controls {
