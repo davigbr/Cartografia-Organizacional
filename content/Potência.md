@@ -1,4 +1,4 @@
-O objetivo final da [[Cartografia Organizacional]] é realizar intervenções que aumentem a **Potência da Organização**. Para isso, é importante distinguirmos potência de dominação.
+O objetivo final da [[index]] é realizar intervenções que aumentem a **Potência da Organização**. Para isso, é importante distinguirmos potência de dominação.
 
 ## Potência (Potentia) vs. Dominação (Potestas)
 

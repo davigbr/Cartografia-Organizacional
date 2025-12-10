@@ -1,3 +1,6 @@
+---
+title: Cartografia Organizacional
+---
 A cartografia organizacional é uma abordagem de consultoria fundamentada na filosofia da diferença e na teoria dos agenciamentos. O objetivo é mover a consultoria de um modelo **transcendente** (julgar a organização contra um ideal externo, como a autogestão) para um modelo **imanente** (mapear o que a organização é e o que ela pode).
 
 A consultoria se transforma num processo cartográfico, focada no devir e no aumento da [[Potência]] de Agir da organização.
