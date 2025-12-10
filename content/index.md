@@ -14,7 +14,6 @@ A consultoria se transforma num processo cartográfico, focada no devir e no aum
 	6. [[A cartógrafa]]
 	7. [[Territorialização e Codificação]]
 	8. [[Arquétipos Geológicos]]
-		1. [[Perguntas para investigação geológica]]
 	9. [[Atuantes]]
 	10. [[Enlaces]]
 2. Heurísticas da cartógrafa
@@ -26,5 +25,10 @@ A consultoria se transforma num processo cartográfico, focada no devir e no aum
 	1. [[Micronarrativas]]
 	2. [[Linguagem de Mapas]]
 		1. [[Mapa de Enlaces]]
+		2. [[Mapa Geológico]]
+		3. [[Mapa de Fontes e Drenos]]
+		4. [[Mapa de Vetores]]
+		5. [[Mapa Genealógico]]
+		6. [[Mapa da Cartógrafa]]
 	3. [[Mapas Privados e Públicos]]
 	4. [[Prototipagem Composicional]]
