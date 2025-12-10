@@ -4,7 +4,7 @@ Os Atuantes podem ser **humanos** (pessoas, grupos) ou **inumanos** (infraestrut
 
 ## Humanos
 
-São os únicos agentes capazes de sentir (afeto) e intencionar (desejo). Na física do mapa, eles são a fonte de energia. Sem eles, o sistema é um esqueleto inerte. Os Atuantes humanos produzem afetos ([[Fontes e Drenos]]) no encontro com outros atuantes ([[Enlaces]]).
+São os únicos atuantes capazes de sentir (afeto) e intencionar (consciência). Na física do mapa, eles são a fonte de energia. Sem eles, o [[Agenciamento]] é um esqueleto inerte. Os Atuantes humanos produzem afetos ([[Fontes e Drenos]]) no encontro com outros atuantes a partir dos [[Enlaces]].
 
 ### Pessoa
 
