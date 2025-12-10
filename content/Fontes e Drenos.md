@@ -1,0 +1,4 @@
+A organização é vista como um corpo coletivo que busca perseverar e agir. Não buscamos problemas, oportunidades ou tensões, mas variações na [[Potência]]. O cartógrafo navega guiado por dois indicadores sensíveis:
+
+- **Fontes de Potência**: São os momentos e situações ([[Enlaces]]) onde a energia flui. Manifestam-se como entusiasmo, facilidade, colaboração e sensação de fluxo" Geralmente produzem afetos alegres nas pessoas, indicando que a organização está realizando sua potência. 
+- **Drenos de Potência**: São os momentos e situações ([[Enlaces]]) onde a energia estagna ou vaza. Manifestam-se como tédio, burocracia, frustração, raiva ou exaustão. Geralmente produzem afetos tristes nas pessoas, indicando que a organização está sendo separada do que ela pode fazer. 
