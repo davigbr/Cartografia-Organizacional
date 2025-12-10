@@ -1,4 +1,4 @@
-O mapa de encontros é uma ferramenta da [[index]]para visualizar agenciamentos. Seu objetivo é mapear a "física dos encontros" entre os [[Atuantes]]: pessoas, grupos, infraestrutura e códigos organizacionais. As conexões entre os elementos são denominadas [[Enlaces]]
+O mapa de enlaces é uma ferramenta da cartografia organizacional para visualizar agenciamentos. Seu objetivo é mapear a "física dos encontros" entre os [[Atuantes]]: pessoas, grupos, infraestrutura e códigos organizacionais. As conexões entre os elementos são denominadas [[Enlaces]]
 
 A notação do mapa de encontros envolve os seguintes elementos visuais:
 

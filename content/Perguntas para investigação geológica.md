@@ -1,4 +1,4 @@
-Para investigação da manifestação dos [[Arquétipos geológicos]], propomos as seguintes perguntas abertas com base nos 10 temas do [CÓDHEX][https://targetteal.com/cursos/codhex/].
+Para investigação da manifestação dos [[Arquétipos Geológicos]], propomos as seguintes perguntas abertas com base nos 10 temas do [CÓDHEX][https://targetteal.com/cursos/codhex/].
 
 ## Estrutura & Papéis
 

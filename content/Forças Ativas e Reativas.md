@@ -1,12 +1,12 @@
 Um corpo é o resultado de uma relação de forças, como dizia Nietzsche. O corpo organizacional também respeita essa regra — esse embate determina o [[Agenciamento]], ao mesmo tempo que um [[Agenciamento]] produz novas forças. Para a cartógrafa é importante compreender as forças ativas e reativas.
 
-## Forças ativas 
+## Forças Ativas 
 
 São forças que agem. Elas vão até o limite do que podem. São expansivas, criadoras e conquistadoras.
 
 - Como se manifestam: Inovação espontânea, a gambiarra que resolve, a colaboração não-oficial, o projeto que nasce da paixão, a decisão autônoma.
 - Efeito: Produzem diferença e novos valores. Geralmente estão associadas às Fontes de Potência ([[Fontes e Drenos]]).
-## Forças reativas 
+## Forças Reativas 
 
 São forças que reagem ou impedem a ação. Elas buscam conservar, regular, adaptar ou limitar. Seu objetivo primário é a segurança e a ordem, não a criação.
 

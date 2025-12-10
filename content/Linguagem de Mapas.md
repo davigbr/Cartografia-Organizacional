@@ -4,4 +4,4 @@ Ele deve dominar a linguagem visual para sobrepor camadas distintas: fluxos de i
 
 Atualmente os seguintes mapas são conhecidos:
 
-1. [[Mapa de encontros]]
+1. [[Mapa de Enlaces]]

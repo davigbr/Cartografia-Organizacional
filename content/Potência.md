@@ -1,4 +1,4 @@
-O objetivo final da [[index]] é realizar intervenções que aumentem a **Potência da Organização**. Para isso, é importante distinguirmos potência de dominação.
+O objetivo final da cartografia organizacional é realizar intervenções que aumentem a **Potência da Organização**. Para isso, é importante distinguirmos potência de dominação.
 
 ## Potência (Potentia) vs. Dominação (Potestas)
 
@@ -7,7 +7,7 @@ No senso comum corporativo, poder é a capacidade de mandar e ser obedecido. Na 
 1. **Potência (Potentia)**: É a capacidade intrínseca da organização de agir, criar e perseverar. É a força de fazer acontecer que gera fluxos de energia e inovação. Ela opera por composição: soma-se à força dos outros para criar um todo mais forte.
 2. **Dominação (Potestas)**: É o poder exercido sobre os outros. Opera por decomposição: para se impor, precisa limitar, vigiar ou diminuir a potência das partes através do medo e da dominação.
 
-Uma organização baseada na dominação pode parecer forte (rígida), mas é estruturalmente impotente. A dominação depende da produção de Afetos Tristes (medo, passividade, ressentimento). Como resultado, um líder ou departamento que precisa diminuir os outros para manter sua autoridade está, na verdade, drenando a energia vital do sistema. Eles transformam forças ativas (criadoras) em forças reativas (que apenas obedecem ou resistem). Ver [[Forças ativas e reativas]].
+Uma organização baseada na dominação pode parecer forte (rígida), mas é estruturalmente impotente. A dominação depende da produção de Afetos Tristes (medo, passividade, ressentimento). Como resultado, um líder ou departamento que precisa diminuir os outros para manter sua autoridade está, na verdade, drenando a energia vital do sistema. Eles transformam forças ativas (criadoras) em forças reativas (que apenas obedecem ou resistem). Ver [[Forças Ativas e Reativas]].
 
 ## Potência é a capacidade de afetar e ser afetado
 

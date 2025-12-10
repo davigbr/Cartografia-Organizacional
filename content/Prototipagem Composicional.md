@@ -10,7 +10,7 @@ O processo se baseia em ciclos curtos e iterativos:
 4. Execução e Observação: O grupo vive o novo agenciamento.
 ##  Movimentos geológicos de intervenção
 
-Com base nos [[Arquétipos geológicos]] encontrados, podemos formular nosso experimento com base em diferentes movimentos.
+Com base nos [[Arquétipos Geológicos]] encontrados, podemos formular nosso experimento com base em diferentes movimentos.
 ### Para sair do Maciço Cristalino
 
 1. Erosão Controlada (Descodificação): Hackear a lei. Simplificar manuais, abolir rituais inúteis que apenas reagem ao medo, criar "zonas de exceção" à regra. *Exemplos: Criar uma "via rápida" onde compras abaixo de um valor não exigem nenhuma assinatura, apenas o registro final.*
