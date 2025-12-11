@@ -56,6 +56,26 @@ extract_title() {
   printf '%s\n' "$title"
 }
 
+# Função para converter título em slug (âncora HTML)
+title_to_slug() {
+  local title="$1"
+  # Converte para minúsculas, substitui espaços por hífens, remove caracteres especiais
+  echo "$title" | tr '[:upper:]' '[:lower:]' | \
+    sed 's/[áàâãä]/a/g; s/[éèêë]/e/g; s/[íìîï]/i/g; s/[óòôõö]/o/g; s/[úùûü]/u/g; s/ç/c/g' | \
+    sed 's/[^a-z0-9]/-/g' | sed 's/-\+/-/g' | sed 's/^-//; s/-$//'
+}
+
+# Função para converter links [[Nome]] em [Nome](#slug)
+convert_wikilinks() {
+  local content="$1"
+  # Para cada link [[Nome]], converte em [Nome](#nome)
+  echo "$content" | sed -E 's/\[\[([^]]+)\]\]/[\1](#\L\1\E)/g' | \
+    sed 's/#\([^)]*\)/\L\1/g' | \
+    sed 's/[áàâãä]/a/g; s/[éèêë]/e/g; s/[íìîï]/i/g; s/[óòôõö]/o/g; s/[úùûü]/u/g; s/ç/c/g' | \
+    sed 's/[^a-z0-9#()\[\] -]//g' | \
+    sed 's/ /-/g'
+}
+
 # Monta lista de arquivos na ordem do índice
 INCLUDE_ORDER=()
 
@@ -138,7 +158,64 @@ for file in "${INCLUDE_ORDER[@]}"; do
 
   title="$(extract_title "$file")"
   printf '\n# %s\n\n' "$title" >> "$OUTPUT_FILE"
-  cat "$file" >> "$OUTPUT_FILE"
+  
+  # Remover frontmatter YAML e converter links
+  if head -n1 "$file" | grep -q '^---[[:space:]]*$'; then
+    # Pula o frontmatter: ignora até encontrar o segundo ---
+    awk 'BEGIN {in_fm=0; skip=1} 
+         /^---[[:space:]]*$/ {
+           if (skip) {in_fm=!in_fm; if (!in_fm) {skip=0; next}}
+         } 
+         !in_fm && !skip {print}' "$file" | python3 -c "
+import sys, re, unicodedata
+
+def slugify(text):
+    # Remove acentos
+    text = unicodedata.normalize('NFD', text)
+    text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
+    # Converte para minúsculas e substitui não-alfanuméricos por hífen
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9]+', '-', text)
+    # Remove hífens do início e fim
+    return text.strip('-')
+
+def convert_wikilinks(line):
+    def replace_link(match):
+        link_text = match.group(1)
+        slug = slugify(link_text)
+        return f'[{link_text}](#{slug})'
+    return re.sub(r'\[\[([^\]]+)\]\]', replace_link, line)
+
+for line in sys.stdin:
+    print(convert_wikilinks(line), end='')
+" >> "$OUTPUT_FILE"
+  else
+    # Sem frontmatter, copia e converte links
+    cat "$file" | python3 -c "
+import sys, re, unicodedata
+
+def slugify(text):
+    # Remove acentos
+    text = unicodedata.normalize('NFD', text)
+    text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
+    # Converte para minúsculas e substitui não-alfanuméricos por hífen
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9]+', '-', text)
+    # Remove hífens do início e fim
+    return text.strip('-')
+
+def convert_wikilinks(line):
+    def replace_link(match):
+        link_text = match.group(1)
+        slug = slugify(link_text)
+        return f'[{link_text}](#{slug})'
+    return re.sub(r'\[\[([^\]]+)\]\]', replace_link, line)
+
+for line in sys.stdin:
+    print(convert_wikilinks(line), end='')
+" >> "$OUTPUT_FILE"
+  fi
+  
   printf '\n\n' >> "$OUTPUT_FILE"
 
 done
