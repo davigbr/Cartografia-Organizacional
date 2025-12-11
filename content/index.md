@@ -33,3 +33,9 @@ A consultoria se transforma num processo cartográfico, focada no devir e no aum
 		6. [[Mapa da Cartógrafa]]
 	3. [[Mapas Privados e Públicos]]
 	4. [[Prototipagem Composicional]]
+4. Exemplo de aplicação
+	1. [[Mangia]]
+	2. [[Entrevistas e micronarrativas]]
+	3. [[Afetações da cartógrafa]]
+	4. [[Mapeamento do mutirão]]
+	5. [[Bastidores e o mapa de enlaces]]
