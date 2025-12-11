@@ -14,8 +14,9 @@ A consultoria se transforma num processo cartográfico, focada no devir e no aum
 	6. [[A cartógrafa]]
 	7. [[Territorialização e Codificação]]
 	8. [[Arquétipos Geológicos]]
-	9. [[Atuantes]]
-	10. [[Enlaces]]
+	9. [[Perguntas para investigação geológica]] 
+	10. [[Atuantes]]
+	11. [[Enlaces]]
 2. Heurísticas da cartógrafa
 	1. [[Os dois abismos]]
 	2. [[A força do capital]]
