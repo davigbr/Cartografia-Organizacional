@@ -61,12 +61,12 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 
 ### Linhas de fuga e segredos operacionais
 
-| De         | Para     | Tipo Nível 1     | Tipo Nível 2 | A Dinâmica da Relação                                                                                    |
-| ---------- | -------- | ---------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
-| Dona Cida  | Lixeira dos Fundos  | Linha de Fuga 🟡 | Transmutação | Cida usa a lixeira (ferramenta de descarte) como um habitat de qualidade, burlando os códigos.           |
-| Helena     | Caminhão | Linha de Fuga 🟡 | Desvio       | Helena libera o caminhão sem o "ok" final para garantir a entrega, subvertendo a hierarquia.             |
-| Lucca      | Sobras   | Linha de Fuga 🟡 | Ruptura      | Lucca cria uma nova lógica (doação) que não existe no mapa oficial, rompendo com o ciclo de desperdício. |
-| Sr. Milton | Helena   | Composição 🟢    | Condução     | Pacto silencioso de eficiência. Helena remove obstáculos para o Sr. Milton, garantindo a rota.           |
+| De         | Para               | Tipo Nível 1     | Tipo Nível 2 | A Dinâmica da Relação                                                                                    |
+| ---------- | ------------------ | ---------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
+| Dona Cida  | Lixeira dos Fundos | Linha de Fuga 🟡 | Transmutação | Cida usa a lixeira (ferramenta de descarte) como um habitat de qualidade, burlando os códigos.           |
+| Helena     | Caminhão           | Linha de Fuga 🟡 | Desvio       | Helena libera o caminhão sem o "ok" final para garantir a entrega, subvertendo a hierarquia.             |
+| Lucca      | Sobras             | Linha de Fuga 🟡 | Ruptura      | Lucca cria uma nova lógica (doação) que não existe no mapa oficial, rompendo com o ciclo de desperdício. |
+| Sr. Milton | Helena             | Composição 🟢    | Condução     | Pacto silencioso de eficiência. Helena remove obstáculos para o Sr. Milton, garantindo a rota.           |
 ### Infraestrutura e processos
 
 | De        | Para         | Tipo Nível 1    | Tipo Nível 2 | A Dinâmica da Relação                                                                                             |
@@ -74,6 +74,23 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 | Mutirão   | Caixa Mangia | Decomposição 🔴 | Dissonância  | O ritual caótico produz caixas com erros e instabilidade. A energia aplicada gera um produto incerto.             |
 | Algoritmo | Compras      | Decomposição 🔴 | Resistência  | O dado correto encontra uma barreira cultural e não consegue virar ação de compra (até a intervenção da oficina). |
 | Lorenzo   | Algoritmo    | Decomposição 🔴 | Dissonância  | Lorenzo insere ruído no dado limpo. A relação continua tensa mesmo após o acordo da oficina (ele torce contra).   |
+
+### Mais conexões
+
+| De        | Para            | Tipo Nível 1      | Tipo Nível 2 | A Dinâmica da Relação                                                                                   |
+| --------- | --------------- | ----------------- | ------------ | ------------------------------------------------------------------------------------------------------- |
+| Breno     | Algoritmo       | Composição <br>🟢 | Condução     | Breno é o autor do código. Ele tenta conduzir a inteligência para o processo de compras.                |
+| Lucca     | Carta do Abrigo | Composição <br>🟢 | Condução     | Lucca é o portador da carta. Ele conectou o "fora" (abrigo) com o "dentro" (Lorenzo).                   |
+| Lorenzo   | Mutirão         | Captura <br>🟣    | Indução      | Lorenzo induz e obriga a realização do ritual. É a vontade dele que mantém o evento vivo.               |
+| Mutirão   | Equipe Dev/Mkt  | Captura <br>🟣    | Extração     | O ritual extrai força de trabalho intelectual para tarefas manuais, drenando a equipe de Breno e Lucca. |
+| Mutirão   | Equipe Geral    | Captura <br>🟣    | Indução      | O ritual captura a rotina de todos, impondo um ritmo que atropela as funções originais.                 |
+| Grito     | Jéssica         | Decomposição 🔴   | Interrupção  | O grito paralisa a estagiária (choro na câmara fria), interrompendo seu fluxo de aprendizado.           |
+| Helena    | Equipe Geral    | Composição <br>🟢 | Condução     | Helena tenta organizar o caos e dar direção operacional para o time de base.                            |
+| Helena    | Compras         | Composição <br>🟢 | Condução     | Helena tenta operacionalizar as compras (planilhas), buscando eficiência.                               |
+| Lorenzo   | Compras         | Decomposição 🔴   | Dissonância  | A intervenção de Lorenzo (comprar por impulso na feira) gera ruído e quebra o planejado.                |
+| Dona Cida | Segredos        | Composição <br>🟢 | Condução     | Cida é a guardiã de várias narrativas ocultas (abobrinha, choros).                                      |
+| Lucca     | Segredos        | Composição <br>🟢 | Condução     | Lucca detém o segredo da doação não autorizada e das fotos escondidas.                                  |
+| Helena    | Segredos        | Composição <br>🟢 | Condução     | Helena detém o segredo logístico (liberação do caminhão sem aval).                                      |
 
 ### Novos enlaces pós-oficina 
 
