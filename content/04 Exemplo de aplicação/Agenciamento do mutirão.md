@@ -1,5 +1,3 @@
-# A oficina de cartografia: o mapeamento do mutirão
-
 **Data:** Quinta-feira, 14:00 (Um dia após o caos do mutirão, enquanto a memória corporal ainda estava fresca). 
 **Local:** O próprio galpão da Mangia (afastamos as mesas de montagem para criar uma clareira no local do crime). 
 **Facilitação:** Marina (Cartógrafa).

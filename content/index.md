@@ -38,6 +38,6 @@ A consultoria se transforma num processo cartográfico, focada no devir e no aum
 	2. [[Entrevistas e micronarrativas]]
 	3. [[Afetações da cartógrafa]]
 	4. [[Estratégia de intervenção]]
-	5. [[Mapeamento do mutirão]]
+	5. [[Agenciamento do mutirão]]
 	6. [[Bastidores e o mapa de enlaces]]
 	7. [[Outros mapas da Mangia]]
