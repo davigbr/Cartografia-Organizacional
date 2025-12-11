@@ -1,8 +1,15 @@
-Um agenciamento é uma composição de elementos heterogêneos, materiais (concretos) e expressivos (simbólicos, linguísticos). Propomos o uso do agenciamento como substituição ao conceito de sistema, frequentemente empregado em análises sociais.
+Um agenciamento é uma composição de elementos heterogêneos, materiais (concretos) e expressivos (simbólicos, linguísticos). Propomos o uso do agenciamento como uma alternativa tática ao conceito de **sistema**, frequentemente empregado em análises organizacionais.
 
-O sistema opera como uma totalidade , buscando manter o equilíbrio interno e proteger seus limites, enquanto o agenciamento é uma **composição aberta**, definida justamente por sua capacidade de se conectar com o exterior e se transformar. Na teoria dos sistemas o todo é maior e transcendente, na teoria dos agenciamentos o todo é só mais um parte que se forma e se posiciona ao lado das demais. Não há hierarquia todo-parte; tudo está organizado em um mesmo plano.
+Embora o pensamento sistêmico seja vasto e possua vertentes que compreendem a realidade como construção social (como o _Soft Systems Thinking_), o uso corriqueiro da palavra "sistema" tende a evocar uma totalidade fechada, funcional e hierárquica. Optamos pelo conceito de agenciamento para evitar duas armadilhas comuns:
 
-Essa escolha se justifica porque as organizações reais não são bolhas isoladas; precisamos de um conceito que capte a abertura para o "fora" e os fluxos que atravessam a instituição, em vez de ficarmos presos a um mapa estático que ignora a realidade em movimento.
+1. **Interioridade vs. exterioridade:** Um sistema é frequentemente definido por suas relações de interioridade — ele busca manter sua coesão interna e equilíbrio (homeostase) protegendo seus limites. Já o agenciamento é definido por suas **relações de exterioridade**. Ele não é uma bolha isolada, mas um arranjo aberto cujas peças podem ser desconectadas e reconectadas a outros agenciamentos. O foco não é o que o agenciamento "é" por dentro, mas com o que ele se conecta fora dele.
+2. **Transcendência (reificação):** Na visão sistêmica tradicional, existe o risco de reificar conceitos abstratos — tratar "A Cultura", "O Mercado" ou "A Sociedade" como se fossem entidades monolíticas que agem sobre as pessoas. O agenciamento nos lembra que essas "entidades" são apenas **agregados**. Não existe um plano superior governando as partes. Como diz a filosofia deleuziana, o todo não é maior que a soma das partes; o todo é apenas mais uma parte ao lado das outras, produzida pelas conexões entre elas.
+
+Essa escolha se justifica porque as organizações reais não são organismos biológicos perfeitos; são colchas de retalhos (agregados heterogêneos) formadas por pessoas, softwares, leis, arquitetura e afetos. Precisamos de um mapa que capte esse movimento e a abertura para o "fora", em vez de uma estrutura estática.
+
+Um agenciamento pode ser mapeado a partir de um conjunto de [Atuantes](https://www.google.com/search?q=%23atuantes&authuser=1) e os [Enlaces](https://www.google.com/search?q=%23enlaces&authuser=1) que os conectam. Além disso, o agenciamento e os seus componentes possuem diferentes graus de [Territorialização e Codificação](https://www.google.com/search?q=%23territorializacao-e-codificacao&authuser=1).
+
+A **dimensão material** de um agenciamento envolve a física dos corpos, a arquitetura, o software, o dinheiro e a infraestrutura. Já a **dimensão expressiva** envolve os discursos, ordens, acordos, leis, narrativas..
 
 Um agenciamento pode ser mapeado a partir de um conjunto de [[Atuantes]] e os [[Enlaces]] que os conectam. Além disso, o agenciamento e os seus componentes possuem diferentes graus de [[Territorialização e Codificação]].
 
