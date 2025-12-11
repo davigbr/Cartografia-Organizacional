@@ -33,8 +33,7 @@ A notação do mapa de encontros envolve os seguintes elementos visuais:
 | Carteirada     | SLA                | Decomposição  | undirected    | A Carteirada anula o SLA. Torna o SLA uma lei morta.                                                                                   |
 | SLA            | Gandalf            |               | undirected    | O ator expressivo "SLA" existe no papel, mas não tem força magnética para afetar o comportamento dos diretores.                        |
 | Galadriel      | Linte (ferramenta) | Composição    | undirected    | Galadriel quer usar a ferramenta, pois ela a protege (Script: "organização"), mas é impedida pela urgência externa.                    |
-| Sauron (Sócio) | Carteirada         | Composição    | undirected    | Ele se apoia na hierarquia para legitimar sua conduta.                                                                                 |
-<iframe src="https://embed.kumu.io/68da019961f09fc4a785df778812a6cb" width="940" height="600" frameborder="0"></iframe>
+| Sauron (Sócio) | Carteirada         | Composição    | undirected    | Ele se ap
 
 ## Layout para Kumu
 

@@ -106,10 +106,17 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 
 Ao terminar o diagrama consolidado, Marina viu a imagem completa da "guerra civil geológica":
 
-1. **A gestão clandestina:** A empresa só sobrevive hoje por causa das três **Linhas de Fuga** (Cida na Lixeira, Lucca nas Sobras, Helena no Caminhão). Se essas pessoas obedecessem cegamente aos enlaces de Captura de Lorenzo, a Mangia pararia.
-2. **O paradoxo do grito:** O mapa confirma a **Composição** entre Lorenzo e o Grito (faz bem para ele) e a **Interrupção** para Helena (faz mal para o processo). O desafio não é calar Lorenzo, mas encontrar outra fonte de amplificação para ele que não destrua a inteligência de Helena.
-3. **A fragilidade do novo:** Os novos enlaces criados na oficina (Oficina -> Segredos) são promissores, mas frágeis. O enlace Lorenzo -> Algoritmo continua vermelho (**Dissonância**), indicando que a sabotagem é provável.
+- **Gestão clandestina como suporte vital:** A operação só funciona porque as _linhas de fuga_ (o desvio de Helena com o caminhão e a transmutação de Cida com o lixo) contornam as ordens oficiais. A desobediência oculta é o que garante a qualidade e o prazo.
+- **O mutirão como dreno parasitário:** O ritual atua via _extração_, consumindo a energia cognitiva da equipe técnica para tarefas braçais, enquanto serve de palco para a _amplificação_ do fundador através do grito, gerando paralisia nos demais.
+- **Dissonância entre dados e intuição:** A relação entre Lorenzo e o algoritmo é de _dissonância_, inserindo ruído num fluxo que seria limpo (_condução_) vindo de Breno. A ferramenta de compras permanecerá travada enquanto houver interferência subjetiva sobre a lógica.
+- **Redes de proteção invisíveis:** Enlaces de _ressonância_ (Cida acolhendo Jéssica) e _condução_ (pacto de eficiência entre Helena e Milton) funcionam como isolantes térmicos, impedindo que a hostilidade do ambiente quebre a operação diária.
+- **Acesso via afeto, não lógica:** O sucesso da carta do abrigo (_ressonância_) prova que Lorenzo é imune a argumentos racionais, mas permeável a 'artefatos de afeto'. A estratégia deve usar o propósito para legitimar a racionalização dos processos.
+
+## Mapa no Kumu
+
+<iframe src="https://embed.kumu.io/3b708234f1ba1da7d3624dc0100f0e91" width="940" height="600" frameborder="0"></iframe>
 
 ---
 
 Marina salvou o arquivo final. O mapa agora mostrava tanto a doença (Capturas/Dissonâncias) quanto a cura (Linhas de Fuga/Ressonâncias) operando simultaneamente.
+

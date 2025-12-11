@@ -1,4 +1,4 @@
-A cartógrafa é também um [[Atuantes]] dentro do agenciamento que investiga. Ela não paira acima do terreno como uma observadora neutra; chega com um corpo, uma história, uma sensibilidade e um projeto político.
+A cartógrafa é também um atuante ([[Atuantes]]) dentro do agenciamento que investiga. Ela não paira acima do terreno como uma observadora neutra; chega com um corpo, uma história, uma sensibilidade e um projeto político.
 
 Ao entrar em um campo, a cartógrafa inevitavelmente forma [[Enlaces]] com pessoas, ferramentas, espaços e narrativas. Idealmente, ela cultiva enlaces de **composição**: encontros que aumentam a [[Potência]] dos envolvidos, ampliando a capacidade coletiva de perceber, nomear e intervir.
 
