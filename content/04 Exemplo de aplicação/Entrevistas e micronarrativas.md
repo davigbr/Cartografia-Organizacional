@@ -1,4 +1,4 @@
-Este documento registra o conteúdo das entrevistas individuais realizadas com os principais atuantes da Mangia durante as primeiras semanas da consultoria. O objetivo foi capturar não apenas a "versão oficial" dos fatos, mas os afetos e as micronarrativas que revelam a geologia real da organização.
+Este documento registra o conteúdo das entrevistas individuais realizadas com os principais [[Atuantes]] da Mangia durante as primeiras semanas da consultoria. O objetivo foi capturar não apenas a "versão oficial" dos fatos, mas os afetos e as [[Micronarrativas]] que revelam a geologia ([[Arquétipos Geológicos]]) real da organização.
 ## 1. Lorenzo (Fundador e CEO)
 
 **Cenário da entrevista:** A conversa aconteceu na sala de vidro de Lorenzo, que tem vista para o galpão. Durante a entrevista, ele se levantou três vezes para observar o movimento lá embaixo.

@@ -1,4 +1,5 @@
-Abaixo descrevemos o contexto de uma organização fictícia que será usada para demonstrar a Cartografia Organizacional.
+Abaixo descrevemos o contexto de uma organização fictícia que será usada para demonstrar a [[A cartógrafa|Cartografia Organizacional]].
+
 ## Identidade e propósito
 
 A Mangia nasceu de uma inquietação pessoal de Lorenzo, um empreendedor descendente de italianos que se viu insatisfeito com a forma como a modernidade corroeu o hábito de cozinhar e comer em família. Guiada pelo slogan "Mangia che te fa bene!", a organização tem como propósito promover uma alimentação saudável e descomplicada, reconectando as pessoas ao prazer da comida de verdade.
@@ -19,15 +20,15 @@ Nas manhãs de quarta, todas as atividades "intelectuais" param. Do CEO ao estag
 
 ## A transição e a busca por ajuda
 
-A Mangia vive hoje o paradoxo de ser uma organização antigamente hierárquica tentando transicionar para a autogestão, mas sem saber exatamente como. A realidade do crescimento atropelou a filosofia inicial. Lorenzo, na tentativa de organizar o caos, tentou implementar a Holacracia seguindo manuais da internet, mas o resultado foi um excesso de burocracia que travou os processos sem resolver os problemas humanos.
+A Mangia vive hoje o paradoxo de ser uma organização antigamente hierárquica tentando transicionar para a autogestão, mas sem saber exatamente como. A realidade do crescimento atropelou a filosofia inicial. Lorenzo, na tentativa de organizar o caos, tentou implementar a Holacracia seguindo manuais da internet, mas o resultado foi um excesso de codificação ([[Territorialização e Codificação]]) que travou os processos sem resolver os problemas humanos.
 
-Diante do impasse, buscaram uma consultoria especializada. A escolha recaiu sobre a abordagem da Cartografia Organizacional justamente pela promessa de não impor um modelo idealizado, mas de trabalhar com a realidade imanente da empresa — mapeando o que a Mangia é hoje para destravar o que ela pode vir a ser.
+Diante do impasse, buscaram uma consultoria especializada. A escolha recaiu sobre a abordagem da Cartografia Organizacional justamente pela promessa de não impor um modelo idealizado, mas de trabalhar com a realidade imanente da empresa — mapeando o que a Mangia é hoje para destravar o que ela pode vir a ser. A [[A cartógrafa|cartógrafa]] buscará identificar os [[Atuantes]], [[Enlaces]] e [[Agenciamento|agenciamentos]] que compõem a organização.
 
 ## Personagens principais
 
-**Lorenzo, o fundador centralizador**: Aos 45 anos, Lorenzo é a alma passional do negócio. Embora cuide teoricamente da estratégia e da relação com produtores, na prática ele centraliza as decisões, movido pelo medo de que a qualidade caia se ele não estiver olhando. Ele vive o conflito interno de desejar uma empresa sem chefes, mas agir como um chefe autoritário nos momentos de pressão, gritando ordens sobre a quantidade de manjericão nas caixas durante os mutirões.
+**Lorenzo, o fundador centralizador**: Aos 45 anos, Lorenzo é a alma passional do negócio. Embora cuide teoricamente da estratégia e da relação com produtores, na prática ele centraliza as decisões, movido pelo medo de que a qualidade caia se ele não estiver olhando. Ele vive o conflito interno de desejar uma empresa sem chefes, mas agir como um chefe autoritário nos momentos de pressão, gritando ordens sobre a quantidade de manjericão nas caixas durante os mutirões. Lorenzo atua como um dreno ([[Fontes e Drenos]]) ao centralizar decisões e bloquear a autonomia da equipe.
 
-**Helena, a liderança de operações** Pragmática e direta, Helena, de 38 anos, é quem tenta traduzir os sonhos voláteis de Lorenzo em planilhas e logística viável. Ela gerencia estoques e a transportadora, sendo frequentemente a voz da razão que é atropelada. Sua maior dor é a ineficiência do mutirão; ela clama por processos claros e previsibilidade, sentindo-se exausta pelas mudanças constantes de direção vindas da fundação.
+**Helena, a liderança de operações** Pragmática e direta, Helena, de 38 anos, é quem tenta traduzir os sonhos voláteis de Lorenzo em planilhas e logística viável. Ela gerencia estoques e a transportadora, sendo frequentemente a voz da razão que é atropelada. Sua maior dor é a ineficiência do [[Agenciamento]] mutirão; ela clama por processos claros e previsibilidade, sentindo-se exausta pelas mudanças constantes de direção vindas da fundação.
 
 **Breno, liderança de tecnologia e growth**: Vindo de um ambiente de startups aceleradas, Breno, 29 anos, é o perfil analítico e focado em escala. Responsável pelo site e algoritmos, ele vê a cultura "familiar" da Mangia com ceticismo. Para Breno, o tempo gasto empacotando caixas na quarta-feira é um desperdício de intelecto que poderia ser usado para otimizar a aquisição de clientes. Ele prefere dados a intuições e vê a autogestão como uma distração romântica.
 

@@ -26,6 +26,13 @@ Marina optou pela **tipologia detalhada (Nível 2)**. Ela fundiu as observaçõe
 | **Carta do Abrigo**    | Código (Memória)             | O objeto físico trazido por Lucca que materializou o "amor" abstrato.                    |
 | **Lixeira dos Fundos** | Infraestrutura (Habitat)     | O local secreto da qualidade via descarte.                                               |
 | **Caixa Mangia**       | Infraestrutura (Instrumento) | O produto final. O objeto de disputa.                                                    |
+| **Equipe Geral**       | Humano (Grupo)               | Coletivo de trabalho do galpão que recebe diretamente o impacto dos modos de gestão.     |
+| **Caminhão**           | Infraestrutura (Instrumento) | Veículo/logística de entrega, ponto sensível de tempo real da operação.                  |
+| **Sobras**             | Código (Memória)             | Matéria excedente que condensa o desperdício e abre possibilidade de novos fluxos.       |
+| **Algoritmo**          | Código (Procedimento)        | Lógica de planejamento de compras baseada em dados que entra em atrito com a cultura.    |
+| **Compras**            | Humano (Setor)               | Função/setor responsável pela decisão de aquisição de insumos a partir (ou não) dos dados.|
+| **Jéssica**            | Humano (Pessoa)              | A aprendiz/produtora que ganha centralidade nos novos acordos de cuidado e qualidade.    |
+| **Segredos**           | Código (Memória)             | Conjunto de narrativas ocultas que emergem na oficina e reconfiguram o mapa de forças.   |
 
 ## A física dos enlaces
 
@@ -35,7 +42,7 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 
 | De      | Para           | Tipo Nível 1    | Tipo Nível 2 | A Dinâmica da Relação                                                                                   |
 | ------- | -------------- | --------------- | ------------ | ------------------------------------------------------------------------------------------------------- |
-| Lorenzo | O Grito        | Composição 🟢   | Amplificação | O grito aumenta a presença de Lorenzo no galpão. Ele se sente maior e mais no controle quando grita.    |
+| Lorenzo | Grito          | Composição 🟢   | Amplificação | O grito aumenta a presença de Lorenzo no galpão. Ele se sente maior e mais no controle quando grita.    |
 | Grito   | Equipe Geral   | Captura 🟣      | Indução      | O grito captura a atenção da equipe à força, induzindo medo e paralisia cognitiva.                      |
 | Grito   | Helena         | Decomposição 🔴 | Interrupção  | O grito corta o raciocínio estratégico de Helena, forçando-a a entrar em modo reativo/operacional.      |
 | Lorenzo | Equipe Dev/Mkt | Captura 🟣      | Extração     | Lorenzo retira energia cognitiva de Breno/Lucca para uso braçal, sem devolver valor proporcional.       |
@@ -44,7 +51,7 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 
 | De         | Para     | Tipo Nível 1     | Tipo Nível 2 | A Dinâmica da Relação                                                                                    |
 | ---------- | -------- | ---------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
-| Dona Cida  | Lixeira  | Linha de Fuga 🟡 | Transmutação | Cida usa a lixeira (ferramenta de descarte) como um habitat de qualidade, burlando os códigos.           |
+| Dona Cida  | Lixeira dos Fundos  | Linha de Fuga 🟡 | Transmutação | Cida usa a lixeira (ferramenta de descarte) como um habitat de qualidade, burlando os códigos.           |
 | Helena     | Caminhão | Linha de Fuga 🟡 | Desvio       | Helena libera o caminhão sem o "ok" final para garantir a entrega, subvertendo a hierarquia.             |
 | Lucca      | Sobras   | Linha de Fuga 🟡 | Ruptura      | Lucca cria uma nova lógica (doação) que não existe no mapa oficial, rompendo com o ciclo de desperdício. |
 | Sr. Milton | Helena   | Composição 🟢    | Condução     | Pacto silencioso de eficiência. Helena remove obstáculos para o Sr. Milton, garantindo a rota.           |
