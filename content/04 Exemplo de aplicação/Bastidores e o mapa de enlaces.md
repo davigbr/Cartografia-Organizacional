@@ -114,7 +114,7 @@ Ao terminar o diagrama consolidado, Marina viu a imagem completa da "guerra civi
 
 ## Mapa no Kumu
 
-<iframe src="https://embed.kumu.io/3b708234f1ba1da7d3624dc0100f0e91" width="740" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/3b708234f1ba1da7d3624dc0100f0e91" width="840" height="600" frameborder="0"></iframe>
 
 ---
 
