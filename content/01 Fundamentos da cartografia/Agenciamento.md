@@ -7,10 +7,6 @@ Embora o pensamento sistêmico seja vasto e possua vertentes que compreendem a r
 
 Essa escolha se justifica porque as organizações reais não são organismos biológicos perfeitos; são colchas de retalhos (agregados heterogêneos) formadas por pessoas, softwares, leis, arquitetura e afetos. Precisamos de um mapa que capte esse movimento e a abertura para o "fora", em vez de uma estrutura estática.
 
-Um agenciamento pode ser mapeado a partir de um conjunto de [Atuantes](https://www.google.com/search?q=%23atuantes&authuser=1) e os [Enlaces](https://www.google.com/search?q=%23enlaces&authuser=1) que os conectam. Além disso, o agenciamento e os seus componentes possuem diferentes graus de [Territorialização e Codificação](https://www.google.com/search?q=%23territorializacao-e-codificacao&authuser=1).
-
-A **dimensão material** de um agenciamento envolve a física dos corpos, a arquitetura, o software, o dinheiro e a infraestrutura. Já a **dimensão expressiva** envolve os discursos, ordens, acordos, leis, narrativas..
-
 Um agenciamento pode ser mapeado a partir de um conjunto de [[Atuantes]] e os [[Enlaces]] que os conectam. Além disso, o agenciamento e os seus componentes possuem diferentes graus de [[Territorialização e Codificação]].
 
 A **dimensão material** de um agenciamento envolve a física dos corpos, a arquitetura, o software, o dinheiro e a infraestrutura. Já a **dimensão expressiva** envolve os discursos, ordens, acordos, leis, narrativas.
