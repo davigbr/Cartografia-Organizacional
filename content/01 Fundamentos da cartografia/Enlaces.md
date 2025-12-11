@@ -1,7 +1,7 @@
 Enlaces são relações ou conexões entre diferentes [[Atuantes]]. Para evitar complexidade desnecessária, propomos dois níveis de mapeamento dos enlaces:
 
-- Nível 1: É a classificação padrão utilizada na maioria dos mapas. Serve para identificar rapidamente o estado geral (onde o sistema sofre ou prospera). Usa-se apenas os 4 tipos básicos: composição, decomposição, captura e linha de fuga.
-- Nível 2: É uma classificação detalhada, empregada apenas quando queremos mais nitidez sobre as relações. Cada tipo básico se subdivide em 3, totalizando 12 tipos.
+- **Nível 1**: É a classificação padrão utilizada na maioria dos mapas. Serve para identificar rapidamente o estado geral (onde o sistema sofre ou prospera). Usa-se apenas os 4 tipos básicos: composição, decomposição, captura e linha de fuga.
+- **Nível 2**: É uma classificação detalhada, empregada apenas quando queremos mais nitidez sobre as relações. Cada tipo básico se subdivide em 3, totalizando 12 tipos.
 
 ## Nível 1
 

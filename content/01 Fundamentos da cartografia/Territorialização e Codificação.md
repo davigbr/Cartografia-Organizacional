@@ -1,6 +1,6 @@
 Para entender como a organização ganha forma, estabilidade e identidade, utilizamos os parâmetros de Territorialização (T) e Codificação (C) da teoria dos agenciamentos de Manuel DeLanda.
 
-A identidade de qualquer [[Agenciamento]] não é uma essência fixa, mas o resultado da regulagem de dois parâmetros variáveis, como se fossem botões em um painel de controle. Esses parâmetros não têm valor moral (alto não é ruim e baixo não é bom).
+A identidade de qualquer [[Agenciamento]] não é uma essência fixa, mas o resultado da regulagem de dois parâmetros variáveis, como se fossem botões em um painel de controle. 
 
 Nosso interesse é entender como uma montagem funciona e quais afetos ela produz — as [[Fontes e Drenos]] que ela gera e quais [[Forças Ativas e Reativas]] ela alimenta — para, a partir disso, manipular essas variáveis e produzir uma nova configuração.
 
@@ -22,7 +22,7 @@ Na **baixa codificação**, o código é aberto, permitindo adaptação e improv
 
 ## Critérios para uma boa estabilização
 
-Como cartógrafa, o interesse não é "aumentar" ou "diminuir" T e C em abstrato, mas encontrar configurações que produzam mais [[Fontes e Drenos|Fontes de Potência]] e contenham os drenos necessários. Alguns critérios práticos:
+Como cartógrafa, o interesse não é aumentar ou diminuir T e C em abstrato, mas encontrar configurações que produzam mais [[Fontes e Drenos|Fontes de Potência]] e contenham os drenos necessários. Alguns critérios práticos:
 
 - **Proporcionalidade ao risco**: Quanto maior o risco de dano material ou simbólico, mais faz sentido uma territorialização/codificação alta. Onde o risco é baixo, o excesso de controle tende a produzir forças reativas e drenar potência.
 - **Revisabilidade**: Um bom arranjo é aquele cujas fronteiras e códigos podem ser revisitados quando os afetos se tornam predominantemente tristes (drenos) ou quando as forças reativas sufocam as ativas.

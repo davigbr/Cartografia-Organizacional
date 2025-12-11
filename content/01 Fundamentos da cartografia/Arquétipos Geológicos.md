@@ -1,4 +1,4 @@
-Ao cruzarmos os eixos de estabilidade (Territorialização e Codificação), identificamos a geologia do terreno organizacional. Abaixo descrevemos as quatro formações principais, suas potências e riscos. Raramente uma organização se encaixa completamente em um arquétipo e outro — no entanto esta classificação pode ser utilizada para analisar um [[Agenciamento]] particular ou recorte organizacional, tal como uma área, processo, acontecimento. Para dicas de como investigar a geologia do terreno, veja [[Perguntas para investigação geológica]].
+Ao cruzarmos os eixos de estabilidade ([[Territorialização e Codificação]]), identificamos a geologia do terreno organizacional. Abaixo descrevemos as quatro formações principais, suas potências e riscos. Raramente uma organização se encaixa completamente em um arquétipo ou noutro — no entanto esta classificação pode ser utilizada para analisar um [[Agenciamento]] particular. Para dicas de como investigar a geologia do terreno, veja [[Perguntas para investigação geológica]].
 
 ## Maciço cristalino
 
