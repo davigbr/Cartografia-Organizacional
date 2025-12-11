@@ -10,29 +10,31 @@ Marina optou pela **tipologia detalhada (Nível 2)**. Ela fundiu as observaçõe
 
 ## Inventário de atuantes
 
-| Atuante                | Tipo (Classificação)         | Descrição Cartográfica                                                                   |
-| ---------------------- | ---------------------------- | ---------------------------------------------------------------------------------------- |
-| **Lorenzo**            | Humano (Pessoa)              | O fundador. Fonte de energia, mas atua como um campo gravitacional instável.             |
-| **Helena**             | Humano (Pessoa)              | A gerente. Atua como escudo e tradutora entre o desejo do fundador e a realidade física. |
-| **Breno**              | Humano (Pessoa)              | O tecnólogo. Representa a lógica fria e os dados.                                        |
-| **Dona Cida**          | Humano (Pessoa)              | A triagem. Guardiã da qualidade sensorial e acolhedora emocional.                        |
-| **Lucca**              | Humano (Pessoa)              | O sensor. Conecta o "dentro" da fábrica com o "fora".                                    |
-| **Sr. Milton**         | Humano (Pessoa)              | O motorista. O homem que vive o tempo real do gargalo logístico.                         |
-| **Marina**             | Humano (Pessoa)              | A cartógrafa. Atuante que introduz escuta e novos fluxos no sistema.                     |
-| **Equipe Dev/Mkt**     | Humano (Grupo)               | Mão de obra intelectual desviada para função manual.                                     |
-| **Mutirão**            | Código (Ritual)              | O evento semanal. Palco do conflito e da possível união.                                 |
-| **Grito**              | Código (Costume)             | Ferramenta de gestão de Lorenzo.                                                         |
-| **Oficina**            | Código (Ritual)              | O novo espaço-tempo criado para dar visibilidade aos fluxos.                             |
-| **Carta do Abrigo**    | Código (Memória)             | O objeto físico trazido por Lucca que materializou o "amor" abstrato.                    |
-| **Lixeira dos Fundos** | Infraestrutura (Habitat)     | O local secreto da qualidade via descarte.                                               |
-| **Caixa Mangia**       | Infraestrutura (Instrumento) | O produto final. O objeto de disputa.                                                    |
-| **Equipe Geral**       | Humano (Grupo)               | Coletivo de trabalho do galpão que recebe diretamente o impacto dos modos de gestão.     |
-| **Caminhão**           | Infraestrutura (Instrumento) | Veículo/logística de entrega, ponto sensível de tempo real da operação.                  |
-| **Sobras**             | Código (Memória)             | Matéria excedente que condensa o desperdício e abre possibilidade de novos fluxos.       |
-| **Algoritmo**          | Código (Procedimento)        | Lógica de planejamento de compras baseada em dados que entra em atrito com a cultura.    |
-| **Compras**            | Humano (Setor)               | Função/setor responsável pela decisão de aquisição de insumos a partir (ou não) dos dados.|
-| **Jéssica**            | Humano (Pessoa)              | A aprendiz/produtora que ganha centralidade nos novos acordos de cuidado e qualidade.    |
-| **Segredos**           | Código (Memória)             | Conjunto de narrativas ocultas que emergem na oficina e reconfiguram o mapa de forças.   |
+| Atuante                  | Tipo (Classificação)         | Descrição Cartográfica                                                                                 |
+| ------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Lorenzo**              | Humano (Pessoa)              | O fundador. Fonte de energia, mas atua como um campo gravitacional instável.                           |
+| **Helena**               | Humano (Pessoa)              | A gerente. Atua como escudo e tradutora entre o desejo do fundador e a realidade física.               |
+| **Breno**                | Humano (Pessoa)              | O tecnólogo. Representa a lógica fria e os dados.                                                      |
+| **Dona Cida**            | Humano (Pessoa)              | A triagem. Guardiã da qualidade sensorial e acolhedora emocional.                                      |
+| **Lucca**                | Humano (Pessoa)              | O sensor. Conecta o "dentro" da fábrica com o "fora".                                                  |
+| **Sr. Milton**           | Humano (Pessoa)              | O motorista. O homem que vive o tempo real do gargalo logístico.                                       |
+| **Marina**               | Humano (Pessoa)              | A cartógrafa. Atuante que introduz escuta e novos fluxos no sistema.                                   |
+| **Equipe Dev/Mkt**       | Humano (Grupo)               | Mão de obra intelectual desviada para função manual.                                                   |
+| **Mutirão**              | Código (Ritual)              | O evento semanal. Palco do conflito e da possível união.                                               |
+| **Grito**                | Código (Costume)             | Ferramenta de gestão de Lorenzo.                                                                       |
+| **Oficina**              | Código (Ritual)              | O novo espaço-tempo criado para dar visibilidade aos fluxos.                                           |
+| **Carta do Abrigo**      | Código (Memória)             | O objeto físico trazido por Lucca que materializou o "amor" abstrato.                                  |
+| **Lixeira dos Fundos**   | Infraestrutura (Habitat)     | O local secreto da qualidade via descarte.                                                             |
+| **Caixa Mangia**         | Infraestrutura (Instrumento) | O produto final. O objeto de disputa.                                                                  |
+| **Equipe Geral**         | Humano (Grupo)               | Coletivo de trabalho do galpão que recebe diretamente o impacto dos modos de gestão.                   |
+| **Caminhão**             | Infraestrutura (Instrumento) | Veículo/logística de entrega, ponto sensível de tempo real da operação.                                |
+| **Sobras**               | Infraestrutura (Matéria)     | Matéria excedente que condensa o desperdício e abre possibilidade de novos fluxos.                     |
+| **Algoritmo**            | Código (Procedimento)        | Lógica de planejamento de compras baseada em dados que entra em atrito com a cultura.                  |
+| **Compras**              | Humano (Setor)               | Função/setor responsável pela decisão de aquisição de insumos a partir (ou não) dos dados.             |
+| **Jéssica**              | Humano (Pessoa)              | A aprendiz/produtora que ganha centralidade nos novos acordos de cuidado e qualidade.                  |
+| **Segredos**             | Código (Memória)             | Conjunto de narrativas ocultas que emergem na oficina e reconfiguram o mapa de forças.                 |
+| **Sra. Marta (Cliente)** | Humano (Grupo)               | Representante dos assinantes. O "fora" que julga o resultado do "dentro". Fonte de demanda e feedback. |
+| **Prazo da Coleta**      | Código (Norma)               | O horário limite do caminhão (17h). Uma restrição temporal rígida que ignora a qualidade artesanal.    |
 
 ## A física dos enlaces
 
@@ -47,6 +49,16 @@ Marina traçou todas as linhas: as disfuncionais (que geraram a crise), as cland
 | Grito   | Helena         | Decomposição 🔴 | Interrupção  | O grito corta o raciocínio estratégico de Helena, forçando-a a entrar em modo reativo/operacional.      |
 | Lorenzo | Equipe Dev/Mkt | Captura 🟣      | Extração     | Lorenzo retira energia cognitiva de Breno/Lucca para uso braçal, sem devolver valor proporcional.       |
 | Breno   | Lorenzo        | Decomposição 🔴 | Resistência  | Breno oferece dados, Lorenzo oferece negação baseada em "feeling". Gera calor (conflito) e desperdício. |
+### Pressões externas
+
+| De                   | Para                 | Tipo Nível 1    | Tipo Nível 2 | A Dinâmica da Relação                                                                                                               |
+| -------------------- | -------------------- | --------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Sra. Marta (Cliente) | Lucca                | Captura 🟣      | Indução      | A reclamação do cliente captura a atenção de Lucca, forçando-o a sair do seu papel criativo para atuar em modo de defesa/desculpas. |
+| Prazo da Coleta      | Helena               | Captura 🟣      | Indução      | O horário impõe um ritmo frenético a Helena. É a força que a obriga a "atropelar" o ritual de perfeição do Lorenzo.                 |
+| Prazo da Coleta      | Lorenzo              | Decomposição 🔴 | Dissonância  | O tempo rígido entra em choque com o "tempo artesanal" de Lorenzo. Ele ignora o prazo, gerando atrito com a realidade logística.    |
+| Sobras               | Dona Cida            | Captura 🟣      | Indução      | O estado da matéria (cheiro/podre) obriga Cida a agir (jogar fora), independentemente da ordem superior. A matéria comanda a ação.  |
+| Caixa Mangia         | Sra. Marta (Cliente) | Decomposição 🔴 | Dissonância  | (Quando há erro) O produto chega com ruído (ex: alecrim demais), gerando insatisfação e quebra de confiança.                        |
+
 ### Linhas de fuga e segredos operacionais
 
 | De         | Para     | Tipo Nível 1     | Tipo Nível 2 | A Dinâmica da Relação                                                                                    |

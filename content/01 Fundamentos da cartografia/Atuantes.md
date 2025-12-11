@@ -35,9 +35,15 @@ Elementos materiais ou técnicos que não sentem, mas servem de suporte para a a
 - Exemplos: Software ERP (SAP/Salesforce), planilha Excel, máquina de café, empilhadeira, ChatGPT, dashboard de monitoramento (sem meta).
 ### Canal
 
-- Descrição: O meio de transporte por onde a informação ou decisão trafega entre dois pontos. Não processa, apenas conecta.
-- Função cartográfica: Garante a circulação. Canais entupidos geram silos; canais excessivos geram ruído (ansiedade).
-- Exemplos: E-mail, thread de tickets (Jira/ServiceNow), grupo de WhatsApp, newsletter interna, rádio peão (fofoca).
+- **Descrição**: O meio de transporte por onde a informação ou decisão trafega entre dois pontos. Não processa, apenas conecta.
+- **Função cartográfica**: Garante a circulação. Canais entupidos geram silos; canais excessivos geram ruído (ansiedade).
+- **Exemplos**: E-mail, thread de tickets (Jira/ServiceNow), grupo de WhatsApp, newsletter interna, rádio peão (fofoca).
+
+### Matéria
+
+- **Descrição:** É a substância (física ou virtual) que atravessa o agenciamento para ser transformada. Diferente do Instrumento (que é usado para trabalhar) e da Infraestrutura (que suporta o trabalho), a Matéria é aquilo em que se trabalha. Ela possui propriedades próprias de resistência, plasticidade e obsolescência. É o fluxo que entra como insumo bruto e sai como produto ou resíduo.
+- **Função cartográfica:** Representa a resistência do real contra o plano ideal. A Matéria impõe atrito: o código legado que quebra, o dado que chega sujo, o ingrediente que perece. 
+- **Exemplos:** Matéria-prima, estoque, documentos a processar. Código legado, dados brutos, backlog de bugs, dívida técnica.
 
 ## Códigos
 
